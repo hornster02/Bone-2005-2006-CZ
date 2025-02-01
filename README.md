@@ -6,7 +6,7 @@ Chyby?
 <br/>
 -vytvoření číselné složky v ```Pack\data``` způsobí černou obrazovku při spuštění hry
 
-Autohotkey v1.1 https://github.com/hornster02/Bone-2005+2006-CZ/raw/main/script.rar
+Autohotkey v1.1 https://github.com/hornster02/Bone-2005-2006-CZ/raw/main/script.rar
 <br/>
 souřadnice jsou pro 21:9 poměr stran
 <br/>
